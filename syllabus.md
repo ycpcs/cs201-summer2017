@@ -9,9 +9,13 @@ title: "Syllabus"
 
 **Summer 2017**
 
-Instructor | Email | Office hours (KEC 113)
----------- | ----- | ----------------------
-[David Babcock](http://faculty.ycp.edu/~dbabcock) | [dbabcock@ycp.edu](mailto:dbabcock@ycp.edu) | TBD
+Class times:
+
+- Section 101, TR 11:00AM - 1:00PM in KEC 119
+
+Instructor:
+
+[David Babcock](http://faculty.ycp.edu/~dbabcock/), <dbabcock@ycp.edu>, KEC101 (815-6442) <br /> Office hours: TBD
 
 Course Description
 ------------------
