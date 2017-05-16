@@ -16,9 +16,9 @@ In order to receive credit for completing a lab, you need to get a sign-off from
 <b>Protip</b>: Work on the labs <i>before</i> coming to class.  This will allow you to ask good questions when we work on the lab in class, and will give you a much better chance of finishing the lab in class.
 </div>
 
-> Date | Lab(s) | File(s)
-> ---- | --- | -------
-> May 16 | [Lab 1: Dog Years](lab01.html) | [CS201\_Lab01.zip](CS201_Lab01.zip)
+Date | Lab(s) | File(s)
+---- | ------ | -------
+May 16 | [Lab 1: Dog Years](lab01.html) | [CS201\_Lab01.zip](CS201_Lab01.zip)
 
 
 
