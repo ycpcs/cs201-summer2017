@@ -15,7 +15,8 @@ May 23 | [Lecture 4: File I/O, Exceptions](lectures/lecture04.html), 2.5&ndash;2
 May 25 | [Lecture 6: GUIs](lectures/lecture06.html)
 May 30 | [Lecture 7: Inheritance](lectures/lecture07.html), 4.1&ndash;4.2<br>[Lecture 8: ArrayList, Inheritance (continued)](lectures/lecture08.html), 4.3&ndash;4.4
 Jun 1  | [Lecture 9: Type casts, instanceof, Object class, Interfaces](lectures/lecture09.html), 4.5-4.7
-Jun 6  | **EXAM 1**
+Jun 6  | [Lecture 10: Generic methods and classes](lectures/lecture10.html), 4.5-4.7
+Jun 8  | **EXAM 1**
 
 <!--
 May 19 | [Lecture 2: Objects/References, Constructors, JUnit](lectures/lecture02.html), 2.1&ndash;2.3, 3.1&ndash;3.9<br>[Lecture 3: Arrays](lectures/lecture03.html), 2.4
