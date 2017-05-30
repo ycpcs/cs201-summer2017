@@ -25,6 +25,7 @@ May 25 | [Lab 6: GUIs](lab06.html) | [CS201\_Lab06.zip](CS201_Lab06.zip)
 May 30 | [Lab 7: Inheritance and Polymorphism](lab07.html)<br>[Lab 8: Inheriting Fields and Methods](lab08.html) | [CS201\_Lab07.zip](CS201_Lab07.zip)<br>[CS201\_Lab08.zip](CS201_Lab08.zip)
 Jun 1  | [Lab 9: Comparable, Sorting](lab09.html) | [CS201\_Lab09.zip](CS201_Lab09.zip)
 Jun 6  | [Lab 10: Using Generic Containers and Algorithms](lab10.html) | [CS201\_Lab10.zip](CS201_Lab10.zip)
+
 <!--
 > May 31 | [Lab 7: Inheritance and Polymorphism](lab07.html)<br>[Lab 8: Inheriting Fields and Methods](lab08.html) | [CS201\_Lab07.zip](CS201_Lab07.zip)<br>[CS201\_Lab08.zip](CS201_Lab08.zip)
 > Jun 2 |  *Exam 1* |
