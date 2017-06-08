@@ -17,7 +17,7 @@ May 30 | [Lecture 7: Inheritance](lectures/lecture07.html), 4.1&ndash;4.2<br>[Le
 Jun 1  | [Lecture 9: Type casts, instanceof, Object class, Interfaces](lectures/lecture09.html), 4.5-4.7
 Jun 6  | [Lecture 10: Generic methods and classes](lectures/lecture10.html), 4.5-4.7
 Jun 8  | **EXAM 1**
-Jun 13 | [Lecture 11: Generic methods, functors](lectures/lecture11.html), 4.8[Lecture 12: Analysis of Algorithms](lectures/lecture12.html), 5.1-5.3
+Jun 13 | [Lecture 11: Generic methods, functors](lectures/lecture11.html), 4.8
 Jun 15 | [Lecture 12: Analysis of Algorithms](lectures/lecture12.html), 5.1-5.3 <br /> [Lecture 13: Big-O](lectures/lecture13.html), 5.4-5.8
 
 <!--
