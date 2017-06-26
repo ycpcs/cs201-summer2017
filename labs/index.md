@@ -29,6 +29,8 @@ Jun 13 | [Lab 11: Functors](lab11.html) | [CS201\_Lab11.zip](CS201_Lab11.zip)
 Jun 15 | [Lab 12: Benchmarking ArrayList](lab12.html) <br /> [Lab 13: Big-O](lab13.html) | [CS201\_Lab12.zip](CS201_Lab12.zip)
 Jun 20 | [Lab 14: Iterators, Interleaving](lab14.html) | [CS201\_Lab14.zip](CS201_Lab14.zip)
 Jun 22 | [Lab 15: Generic Algorithms](lab15.html) | [CS201\_Lab15.zip](CS201_Lab15.zip)
+Jun 27 | [Lab 16: List Reversal](lab16.html) | [CS201\_Lab16.zip](CS201_Lab16.zip)
+Jun 29 | [Lab 17: Parallel Estimation of π](lab17.html) | [CS201\_Lab17.zip](CS201_Lab17.zip)
 
 <!--
 > May 31 | [Lab 7: Inheritance and Polymorphism](lab07.html)<br>[Lab 8: Inheriting Fields and Methods](lab08.html) | [CS201\_Lab07.zip](CS201_Lab07.zip)<br>[CS201\_Lab08.zip](CS201_Lab08.zip)

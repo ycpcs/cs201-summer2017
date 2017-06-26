@@ -21,6 +21,8 @@ Jun 13 | [Lecture 11: Generic methods, functors](lectures/lecture11.html), 4.8
 Jun 15 | [Lecture 12: Analysis of Algorithms](lectures/lecture12.html), 5.1-5.3 <br /> [Lecture 13: Big-O](lectures/lecture13.html), 5.4-5.8
 Jun 20 | [Lecture 14: Collections, Iterators](lectures/lecture14.html), 6.1-6.3
 Jun 22 | [Lecture 15: Generic Algorithms](lectures/lecture15.html), 6.4
+Jun 27 | [Lecture 16: Lists](lectures/lecture16.html), 6.5
+Jun 29 | [Lecture 17: Parallel Programming with Threads](lectures/lecture17.html)
 
 <!--
 May 19 | [Lecture 2: Objects/References, Constructors, JUnit](lectures/lecture02.html), 2.1&ndash;2.3, 3.1&ndash;3.9<br>[Lecture 3: Arrays](lectures/lecture03.html), 2.4
