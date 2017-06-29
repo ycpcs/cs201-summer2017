@@ -23,6 +23,7 @@ Jun 20 | [Lecture 14: Collections, Iterators](lectures/lecture14.html), 6.1-6.3
 Jun 22 | [Lecture 15: Generic Algorithms](lectures/lecture15.html), 6.4
 Jun 27 | [Lecture 16: Lists](lectures/lecture16.html), 6.5
 Jun 29 | [Lecture 17: Parallel Programming with Threads](lectures/lecture17.html)
+Jul 6  | [Lecture 18: Stacks and Queues](lectures/lecture18.html), 6.6
 
 <!--
 May 19 | [Lecture 2: Objects/References, Constructors, JUnit](lectures/lecture02.html), 2.1&ndash;2.3, 3.1&ndash;3.9<br>[Lecture 3: Arrays](lectures/lecture03.html), 2.4

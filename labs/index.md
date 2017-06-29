@@ -31,6 +31,7 @@ Jun 20 | [Lab 14: Iterators, Interleaving](lab14.html) | [CS201\_Lab14.zip](CS20
 Jun 22 | [Lab 15: Generic Algorithms](lab15.html) | [CS201\_Lab15.zip](CS201_Lab15.zip)
 Jun 27 | [Lab 16: List Reversal](lab16.html) | [CS201\_Lab16.zip](CS201_Lab16.zip)
 Jun 29 | [Lab 17: Parallel Estimation of π](lab17.html) | [CS201\_Lab17.zip](CS201_Lab17.zip)
+Jul 6  | [Lab 18: Palindromes](lab18.html) | [CS201\_Lab18.zip](CS201_Lab18.zip)
 
 <!--
 > May 31 | [Lab 7: Inheritance and Polymorphism](lab07.html)<br>[Lab 8: Inheriting Fields and Methods](lab08.html) | [CS201\_Lab07.zip](CS201_Lab07.zip)<br>[CS201\_Lab08.zip](CS201_Lab08.zip)
