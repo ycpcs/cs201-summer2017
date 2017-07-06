@@ -190,7 +190,7 @@ public class MyQueue<E> implements Queue<E> {
     }
     
     public void add(E element) {
-        list.addFirst(element);
+        list.add(element);
     }
     
     public E remove() {
