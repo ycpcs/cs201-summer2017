@@ -28,6 +28,9 @@ Jul 11 | **Exam 2** Review
 Jul 13 | **EXAM 2**
 Jul 18 | Vacation, no class
 Jul 20 | Vacation, no class
+Jul 25 | [Lecture 19: Sets and Maps](lectures/lecture19.html), 6.7-6.8
+Jul 27 | [Lecture 20: Recursion](lectures/lecture20.html), 7.1, 7.3 <br /> [Lecture 21: Proof by Induction](lectures/lecture21.html), 7.2 <br /> [Lecture 22: Memoization and Dynamic Programming](lectures/lecture22.html), 7.6
+
 
 <!--
 May 19 | [Lecture 2: Objects/References, Constructors, JUnit](lectures/lecture02.html), 2.1&ndash;2.3, 3.1&ndash;3.9<br>[Lecture 3: Arrays](lectures/lecture03.html), 2.4
