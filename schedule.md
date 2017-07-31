@@ -30,7 +30,10 @@ Jul 18 | Vacation, no class
 Jul 20 | Vacation, no class
 Jul 25 | [Lecture 19: Sets and Maps](lectures/lecture19.html), 6.7-6.8
 Jul 27 | [Lecture 20: Recursion](lectures/lecture20.html), 7.1, 7.3 <br /> [Lecture 21: Proof by Induction](lectures/lecture21.html), 7.2 <br /> [Lecture 22: Memoization and Dynamic Programming](lectures/lecture22.html), 7.6
-
+Aug 1  | [Lecture 24: Relational Databases and SQL](lectures/lecture24.html) <br /> [Lecture 25: Database Applications and JDBC](lectures/lecture25.html)
+Aug 3  | **Exam 3** Review
+Aug 8  | **EXAM 3**
+Aug 10 | **FINAL EXAM**
 
 <!--
 May 19 | [Lecture 2: Objects/References, Constructors, JUnit](lectures/lecture02.html), 2.1&ndash;2.3, 3.1&ndash;3.9<br>[Lecture 3: Arrays](lectures/lecture03.html), 2.4

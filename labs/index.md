@@ -34,6 +34,7 @@ Jun 29 | [Lab 17: Parallel Estimation of π](lab17.html) | [CS201\_Lab17.zip](CS
 Jul 6  | [Lab 18: Palindromes](lab18.html) | [CS201\_Lab18.zip](CS201_Lab18.zip)
 Jul 25 | [Lab 19: Word Count](lab19.html) | [CS201\_Lab19.zip](CS201_Lab19.zip)
 Jul 27 | [Lab 20: Recursion](lab20.html) <br /> [Lab 21: Proof By Induction](lab21.html) <br /> [Lab 22: Binomial Coefficient](lab22.html) | [CS201\_Lab20.zip](CS201_Lab20.zip) <br />  n/a <br /> [CS201\_Lab22.zip](CS201_Lab22.zip)
+Aug 1  | [Lab 23: Relational Databases and SQL](lab23.html) <br /> [Lab 24: JDBC](lab24.html) | [CS201\_Lab23.zip](CS201_Lab23.zip)<br>[CS201\_Derby.zip](CS201_Derby.zip) <br /> [CS201\_Lab24.zip](CS201_Lab24.zip)
 
 <!--
 > May 31 | [Lab 7: Inheritance and Polymorphism](lab07.html)<br>[Lab 8: Inheriting Fields and Methods](lab08.html) | [CS201\_Lab07.zip](CS201_Lab07.zip)<br>[CS201\_Lab08.zip](CS201_Lab08.zip)
